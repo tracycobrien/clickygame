@@ -1,10 +1,11 @@
 .footer {
-    background-color: #e62dbd;
+    background-color: navy;
     -webkit-box-shadow: 0 -14px 28px rgba(10, 227, 235, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     box-shadow: 0 -14px 28px rgba(12, 203, 236, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     color: rgb(0, 255, 13);
     font-size: 18px;
     height: 50px;
     padding: 10px 0;
+    text-align: center;
     
   }
