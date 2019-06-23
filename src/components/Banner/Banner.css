@@ -1,11 +1,12 @@
 .banner {
-    background-image: url('/src/images/pink_rice.png') !important;
-    height: 370px;
+    background-color: whitesmoke !important;
+    height: 100px;
     margin: 0 !important;
     padding: 0 !important;
-    color: black;
-    font-size: 18px;
-    position: fixed;
+    color:navy;
+    font-size: 30px;
+    text-align: center;
+    /* position: fixed; */
   }
   
   @media (min-width: 576px) {

@@ -66,7 +66,7 @@
 @media (min-width: 576px) {
   .navbar {
     display: flex;
-    position: fixed;
+    /* position: fixed; */
     justify-content: space-around;
     font-size: calc(10px + 14 * (100vw - 320px) / 800);
   }

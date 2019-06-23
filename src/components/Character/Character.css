@@ -1,6 +1,6 @@
 .card {
     border: 3px solid #d7d7d7;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px gray, 0 3px 6px gray;
     cursor: pointer;
     height: 170px;
     margin: 15px;
@@ -9,7 +9,7 @@
   }
   
   .card:hover {
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    box-shadow: 0 14px 28px gray, 0 10px 10px gray;
     transform: scale(1.05);
     transition: 0.1s;
   }
