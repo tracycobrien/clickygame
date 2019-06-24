@@ -4,6 +4,7 @@ import Container from './Container';
 import Footer from './Footer';
 import Banner from './Banner';
 import images from '../images';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class ClickyGame extends Component {
   state = {
