@@ -18,7 +18,8 @@
 * CSS
 
 ## Website
-[Heroku](https://git.heroku.com/clickygame757.git
+[Heroku](https://clickygame757.herokuapp.com/)
+
 
 
 ## Available Scripts
@@ -36,5 +37,5 @@ You will also see any lint errors in the console.
 Below are photos of the project in app mode:
 
 ![Kitty](Top.jpeg)
-![Kitty](Bottom.jpeg)
+![Kitty](Top2.jpeg)
 
