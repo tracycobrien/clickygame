@@ -4,7 +4,7 @@
 
 1. Create a new React application using Create React App.
 
-2. The app should render 12 different images of kittes to the screen. Each image listens for click events.
+2. The app should render 12 different images of kitties to the screen. Each image listens for click events.
 
 3. The app keeps track of the user's score. The user's score is incremented when  an image is clicked for the first time. 
 
